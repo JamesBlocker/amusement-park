@@ -9,8 +9,10 @@ $(document).ready(function() {
         $('.short').css("text-decoration", "underline");
     } else if (userHeight >= 77) {
         $('#tallPanel').fadeIn(3000);
+        $('.tall').css("text-decoration", "underline");
     } else {
         $('#normalPanel').fadeIn(3000);
+        $('.normal').css("text-decoration", "underline");
     }
 
 
