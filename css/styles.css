@@ -1,0 +1,16 @@
+.jumbotron {
+    text-align: center;
+    align-items: center;
+}
+
+#shortPanel {
+    display: none;
+}
+
+#normalPanel {
+    display: none;
+}
+
+#tallPanel {
+    display: none;
+}
