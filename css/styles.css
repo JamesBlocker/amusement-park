@@ -14,3 +14,8 @@
 #tallPanel {
     display: none;
 }
+
+ul {
+    display: none;
+    list-style: none;
+}
